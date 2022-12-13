@@ -15,3 +15,10 @@
 - 解壓縮
 - 隨意建立資料，將解壓縮檔案夾放進行
 - 執行 ConsoleRichGame.exe 
+
+# 專案特點
+- 應用 abrstract class 為玩家，給 玩家電腦 與 玩家 共同 extends
+  - 需實作當到達土地時，要作怎麼樣的行為
+  - 需實作扔骰子的動作
+- 純 console 繪圖
+- 玩家判斷土地是否是自己的，還是別人的，還是空地，這是用 functional 的方式去實作，將 if else 包起來
