@@ -9,3 +9,9 @@
 ![5__computerPlay](https://user-images.githubusercontent.com/19727471/207271628-a9b98a54-6f38-441f-a6c4-297d9bf7a671.png)
 
 
+# 執行方式
+- 到 https://github.com/lolmuta/ConsoleRichGame/releases/tag/untagged-66f96ea9afb28e931306
+- 下載檔案
+- 解壓縮
+- 隨意建立資料，將解壓縮檔案夾放進行
+- 執行 ConsoleRichGame.exe 
